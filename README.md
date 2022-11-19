@@ -1,5 +1,4 @@
 ### Hi there 👋
-- 💬 Ask me about 
 - 🌱 I’m currently learning German and linguistics
 - 😄 Pronouns: he/him
 - 📫 I'm on Mastodon: @jsonzilla@libretooth.gr

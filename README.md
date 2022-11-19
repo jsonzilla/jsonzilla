@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning German and linguistics
+- 🌱 I’m currently learning German and linguistics + 🦀
 - 😄 Pronouns: he/him
 - 📫 I'm on Mastodon: @jsonzilla@libretooth.gr
 - ⚡ Fun fact: I don't know how to ride a bike

@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning German and linguistics + 🦀
 - 😄 Pronouns: he/him
 - 📫 I'm on Mastodon: @jsonzilla@libretooth.gr
-- ⚡ Fun fact: I don't know how to ride a bike
+- ⚡ Fun fact: I've never ridden a bike without falling.
 
 <!--
 **jsonzilla/jsonzilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

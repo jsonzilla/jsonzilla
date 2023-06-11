@@ -1,7 +1,6 @@
 ### Hi there 👋
 - 🌱 I’m currently learning German and linguistics + 🦀
 - 😄 Pronouns: he/him
-- 📫 I'm on Mastodon: @jsonzilla@libretooth.gr
 - ⚡ Fun fact: I've never ridden a bike without falling.
 
 <!--

@@ -1,7 +1,4 @@
-### Hi there 👋
-- 🌱 I’m currently learning German and linguistics + 🦀
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I've never ridden a bike without falling.
+🤫
 
 <!--
 **jsonzilla/jsonzilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
